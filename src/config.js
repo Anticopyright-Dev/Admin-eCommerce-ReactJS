@@ -1,7 +1,7 @@
 import _ from 'lodash'
 
 //endpoint
-export const url = "https://anti-app.netlify.app/"
+export const url = "https://penjualanapp-api.herokuapp.com"
 
 //headers
 export function headers(token) {
