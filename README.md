@@ -1,9 +1,6 @@
 # Admin e-Commerce ReactJS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-#### Live Preview : https://admin-ecommerce.herokuapp.com/
-- username : aguzs
-- password : 12345
+https://anti-app.netlify.app/
 
 ## Required
 - Internet to access this website
